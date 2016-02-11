@@ -1,7 +1,5 @@
 # gradle-cookbook
 
-[![Build Status](https://travis-ci.org/iennae/gradle-cookbook.svg?branch=master)](https://travis-ci.org/iennae/gradle-cookbook) [![Cookbook Version](https://img.shields.io/cookbook/v/gradle-cookbook.svg)](https://supermarket.chef.io/cookbooks/gradle-cookbook)
-
 Installs gradle.
 
 ## Scope
